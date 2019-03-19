@@ -1,4 +1,4 @@
-Hi, I am a starteing-programmer with basic programming knowledge in:
+Hi, I am a starting-programmer with basic programming knowledge in:
   C++
   Visual Basic
   Java
